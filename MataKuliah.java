@@ -1,4 +1,4 @@
-package tugas3;
+
 
 public class MataKuliah {
     private String kodeMk;
